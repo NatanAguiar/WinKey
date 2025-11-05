@@ -1,4 +1,8 @@
-No CMD digite:
+Digite no PowerShell:
+
 https://get.activated.win | iex
 
-Selecione a opção 1
+Selecione:
+[1] HWID
+
+Ative selecionando [1]
